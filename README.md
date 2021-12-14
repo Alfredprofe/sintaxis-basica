@@ -93,7 +93,7 @@ Mientras que en el elemento `<body>` insertaremos todos los elementos que darán
     [Koder](https://apps.apple.com/us/app/koder-code-editor/id1447489375)
     
 
-[Actividades](https://www.notion.so/3e02035ae1c146dd9765faa26531f381)
+[Actividades](https://gist.github.com/Alfredprofe/1b7e23ac054f3b352242ab2c9ac399d9)
 
 ### Referencia bibliográfica
 
