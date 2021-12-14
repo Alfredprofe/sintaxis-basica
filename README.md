@@ -50,11 +50,11 @@ Ahora es momento de continuar con la estructura básica de un documento HTML.
 
 Esta estructura consta básicamente de 5 elementos:
 
-1. <!DOCTYPE html>
-2. <html>
-3. <head>
-4. <title>
-5. <body>
+1. \<!DOCTYPE html>
+2. \<html>
+3. \<head>
+4. \<title>
+5. \<body>
 
 Dentro del elementos **<head>** insertaremos información importante para el navegador. Esta información también le será muy útil a motores de busqueda como Google, Yahoo, Bing, etc. permitiendo mostrar información acerca de tu sitio web a los usuarios.
 
