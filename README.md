@@ -56,11 +56,11 @@ Esta estructura consta básicamente de 5 elementos:
 4. \<title>
 5. \<body>
 
-Dentro del elementos **<head>** insertaremos información importante para el navegador. Esta información también le será muy útil a motores de busqueda como Google, Yahoo, Bing, etc. permitiendo mostrar información acerca de tu sitio web a los usuarios.
+Dentro del elementos `<head>` insertaremos información importante para el navegador. Esta información también le será muy útil a motores de busqueda como Google, Yahoo, Bing, etc. permitiendo mostrar información acerca de tu sitio web a los usuarios.
 
 ![https://i.ibb.co/1Gk9QKv/head.png](https://i.ibb.co/1Gk9QKv/head.png)
 
-Mientras que en el elemento **<body>** insertaremos todos los elementos que darán forma a nuestra página web, en términos de maquetación y organización.
+Mientras que en el elemento `<body>` insertaremos todos los elementos que darán forma a nuestra página web, en términos de maquetación y organización.
 
 ![https://i.ibb.co/qkQmpx2/body.png](https://i.ibb.co/qkQmpx2/body.png)
 
